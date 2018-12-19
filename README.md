@@ -25,4 +25,5 @@
 ### stateimg1,2......10:stateimgx,代表回覆第x部電影版的海報
 ### stateback:回答ok,去user（go_back）
 
-
+## final state 圖
+### http://localhost:5000/show-fsm
