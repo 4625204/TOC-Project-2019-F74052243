@@ -18,11 +18,11 @@
 
 
 ## state 說明
-initial state :user
-state1～10:statex,代表回覆第x部柯南電影版名稱
-state11,21......101:x1,代表回覆第x部腳本製作人
-state12,22......102:x2,代表回覆第x部主題曲名稱及演唱者
-stateimg1,2......10:stateimgx,代表回覆第x部電影版的海報
-stateback:回答ok,去user（go_back）
+### initial state :user
+### state1～10:statex,代表回覆第x部柯南電影版名稱
+### state11,21......101:x1,代表回覆第x部腳本製作人
+### state12,22......102:x2,代表回覆第x部主題曲名稱及演唱者
+### stateimg1,2......10:stateimgx,代表回覆第x部電影版的海報
+### stateback:回答ok,去user（go_back）
 
- 
+
